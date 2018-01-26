@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="bt_clear">Clear</string>
+    <string name="bt_number0">0</string>
+    <string name="bt_number1">1</string>
+    <string name="bt_number2">2</string>
+    <string name="bt_number3">3</string>
+    <string name="bt_number4">4</string>
+    <string name="bt_number5">5</string>
+    <string name="bt_number6">6</string>
+    <string name="bt_number7">7</string>
+    <string name="bt_number8">8</string>
+    <string name="bt_number9">9</string>
+
+    <string name="bt_point">.</string>
+    <string name="bt_plus">+</string>
+    <string name="bt_sub">-</string>
+    <string name="bt_mul">*</string>
+    <string name="bt_div">/</string>
+    <string name="bt_ans">=</string>
+
+</resources>
